@@ -1,20 +1,10 @@
 {
   "symbol": "OANDA:XAUUSD",
   "timeframe": "15m",
-  "generated_at": "2026-07-24T02:15:03.431Z",
-  "source_latest_bar_time": "2026-07-24T02:00:00.000Z",
+  "generated_at": "2026-07-24T02:30:05.578Z",
+  "source_latest_bar_time": "2026-07-24T02:15:00.000Z",
   "count": 100,
   "bars": [
-    {
-      "bar_time": "2026-07-22T22:15:00.000Z",
-      "open": 4124.375,
-      "high": 4129.355,
-      "low": 4120.88,
-      "close": 4129.01,
-      "volume": 5626,
-      "source_bars": 15,
-      "complete": true
-    },
     {
       "bar_time": "2026-07-22T22:30:00.000Z",
       "open": 4128.96,
@@ -1002,6 +992,16 @@
       "low": 4041.185,
       "close": 4045.885,
       "volume": 5290,
+      "source_bars": 15,
+      "complete": true
+    },
+    {
+      "bar_time": "2026-07-24T02:15:00.000Z",
+      "open": 4045.88,
+      "high": 4048.59,
+      "low": 4042.665,
+      "close": 4046.59,
+      "volume": 3724,
       "source_bars": 15,
       "complete": true
     }
