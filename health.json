@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "source": "mt5",
+  "authoritative_source": "Exness MT5 via Cloudflare Worker/D1",
+  "mirror_role": "ChatGPT read-only transport",
+  "worker": "ok",
+  "database": "ok",
+  "mt5_feed": "realtime",
+  "mt5_realtime_valid_at_generation": true,
+  "broker_symbol": "XAUUSDm",
+  "broker_server": "Exness-MT5Trial5",
+  "bid": 4064.437,
+  "ask": 4064.677,
+  "source_tick_time": "2026-07-30T09:32:01.363Z",
+  "latest_closed_m1_time": "2026-07-30T09:31:00.000Z",
+  "generated_at": "2026-07-30T09:32:04.287Z",
+  "age_seconds_at_generation": 2,
+  "tradingview_price_feed": false,
+  "fallback_enabled": false,
+  "github_is_not_price_source": true,
+  "sync_key": "health:2026-07-30T09:32:01.363Z:2026-07-30T09:31:00.000Z"
+}
