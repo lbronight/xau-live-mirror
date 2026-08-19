@@ -7,61 +7,11 @@
   "broker_symbol": "XAUUSDm",
   "broker_server": "Exness-MT5Trial5",
   "timeframe": "60m",
-  "generated_at": "2026-08-18T20:00:12.958Z",
-  "source_latest_bar_time": "2026-08-18T19:00:00.000Z",
-  "source_m1_count": 4732,
-  "count": 74,
+  "generated_at": "2026-08-19T01:00:11.491Z",
+  "source_latest_bar_time": "2026-08-19T00:00:00.000Z",
+  "source_m1_count": 4665,
+  "count": 70,
   "bars": [
-    {
-      "bar_time": "2026-08-13T11:00:00.000Z",
-      "open": 4392.109,
-      "high": 4396.683,
-      "low": 4382.685,
-      "close": 4387.509,
-      "volume": 7816,
-      "source_bars": 60,
-      "complete": true
-    },
-    {
-      "bar_time": "2026-08-13T12:00:00.000Z",
-      "open": 4387.573,
-      "high": 4401.951,
-      "low": 4380.747,
-      "close": 4401.749,
-      "volume": 15004,
-      "source_bars": 60,
-      "complete": true
-    },
-    {
-      "bar_time": "2026-08-13T13:00:00.000Z",
-      "open": 4401.692,
-      "high": 4402.283,
-      "low": 4370.645,
-      "close": 4372.692,
-      "volume": 27488,
-      "source_bars": 60,
-      "complete": true
-    },
-    {
-      "bar_time": "2026-08-13T14:00:00.000Z",
-      "open": 4372.636,
-      "high": 4387.071,
-      "low": 4357.244,
-      "close": 4383.797,
-      "volume": 27110,
-      "source_bars": 60,
-      "complete": true
-    },
-    {
-      "bar_time": "2026-08-13T15:00:00.000Z",
-      "open": 4383.849,
-      "high": 4385.532,
-      "low": 4357.451,
-      "close": 4365.204,
-      "volume": 18765,
-      "source_bars": 60,
-      "complete": true
-    },
     {
       "bar_time": "2026-08-13T16:00:00.000Z",
       "open": 4365.013,
@@ -751,8 +701,18 @@
       "volume": 11188,
       "source_bars": 60,
       "complete": true
+    },
+    {
+      "bar_time": "2026-08-19T00:00:00.000Z",
+      "open": 4333.042,
+      "high": 4347.308,
+      "low": 4331.335,
+      "close": 4338.133,
+      "volume": 16406,
+      "source_bars": 60,
+      "complete": true
     }
   ],
   "github_is_not_price_source": true,
-  "sync_key": "tf60:2026-08-18T19:00:00.000Z"
+  "sync_key": "tf60:2026-08-19T00:00:00.000Z"
 }
