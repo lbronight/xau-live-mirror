@@ -8,15 +8,15 @@
   "broker_server": "Exness-MT5Trial5",
   "timezone": "Australia/Brisbane",
   "brisbane_calendar_date": "2026-09-01",
-  "brisbane_hour": 4,
+  "brisbane_hour": 5,
   "trading_date": "2026-08-31",
   "session_phase": "overnight_active",
   "session_levels_status": "realtime",
-  "generated_at": "2026-08-31T18:55:07.049Z",
-  "reference_closed_m1_time": "2026-08-31T18:54:00.000Z",
-  "source_latest_m1_time": "2026-08-31T18:54:00.000Z",
-  "source_latest_m5_time": "2026-08-31T18:50:00.000Z",
-  "source_count": 1254,
+  "generated_at": "2026-08-31T19:00:07.265Z",
+  "reference_closed_m1_time": "2026-08-31T18:59:00.000Z",
+  "source_latest_m1_time": "2026-08-31T18:59:00.000Z",
+  "source_latest_m5_time": "2026-08-31T18:55:00.000Z",
+  "source_count": 1259,
   "utc_range": {
     "from": "2026-08-30T22:00:00.000Z",
     "to": "2026-08-31T22:00:00.000Z"
@@ -49,24 +49,24 @@
     "last_bar_time": "2026-08-31T15:59:00.000Z"
   },
   "overnight": {
-    "count": 175,
+    "count": 180,
     "open": 4426.072,
     "high": 4440.276,
     "low": 4423.564,
-    "close": 4433.281,
+    "close": 4430.712,
     "first_bar_time": "2026-08-31T16:00:00.000Z",
-    "last_bar_time": "2026-08-31T18:54:00.000Z"
+    "last_bar_time": "2026-08-31T18:59:00.000Z"
   },
   "trading_day": {
-    "count": 1254,
+    "count": 1259,
     "open": 4439.04,
     "high": 4472.423,
     "low": 4396.323,
-    "close": 4433.281,
+    "close": 4430.712,
     "first_bar_time": "2026-08-30T22:01:00.000Z",
-    "last_bar_time": "2026-08-31T18:54:00.000Z"
+    "last_bar_time": "2026-08-31T18:59:00.000Z"
   },
   "empty_reason": null,
   "github_is_not_price_source": true,
-  "sync_key": "sessions:2026-08-31:2026-08-31T18:50:00.000Z"
+  "sync_key": "sessions:2026-08-31:2026-08-31T18:55:00.000Z"
 }
