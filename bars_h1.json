@@ -7,71 +7,11 @@
   "broker_symbol": "XAUUSDm",
   "broker_server": "Exness-MT5Trial5",
   "timeframe": "60m",
-  "generated_at": "2026-09-07T18:00:12.884Z",
-  "source_latest_bar_time": "2026-09-07T17:00:00.000Z",
-  "source_m1_count": 4731,
-  "count": 73,
+  "generated_at": "2026-09-08T00:00:14.791Z",
+  "source_latest_bar_time": "2026-09-07T23:00:00.000Z",
+  "source_m1_count": 4518,
+  "count": 68,
   "bars": [
-    {
-      "bar_time": "2026-09-02T09:00:00.000Z",
-      "open": 4312.945,
-      "high": 4322.486,
-      "low": 4304.848,
-      "close": 4308.682,
-      "volume": 10480,
-      "source_bars": 60,
-      "complete": true
-    },
-    {
-      "bar_time": "2026-09-02T10:00:00.000Z",
-      "open": 4308.489,
-      "high": 4312.254,
-      "low": 4301.687,
-      "close": 4309.402,
-      "volume": 9248,
-      "source_bars": 60,
-      "complete": true
-    },
-    {
-      "bar_time": "2026-09-02T11:00:00.000Z",
-      "open": 4309.317,
-      "high": 4333.063,
-      "low": 4307.587,
-      "close": 4332.125,
-      "volume": 14833,
-      "source_bars": 60,
-      "complete": true
-    },
-    {
-      "bar_time": "2026-09-02T12:00:00.000Z",
-      "open": 4332.228,
-      "high": 4344.636,
-      "low": 4327.169,
-      "close": 4331.458,
-      "volume": 20298,
-      "source_bars": 60,
-      "complete": true
-    },
-    {
-      "bar_time": "2026-09-02T13:00:00.000Z",
-      "open": 4331.402,
-      "high": 4385.409,
-      "low": 4330.513,
-      "close": 4385.281,
-      "volume": 30807,
-      "source_bars": 60,
-      "complete": true
-    },
-    {
-      "bar_time": "2026-09-02T14:00:00.000Z",
-      "open": 4385.369,
-      "high": 4397.711,
-      "low": 4374.324,
-      "close": 4376.842,
-      "volume": 25113,
-      "source_bars": 60,
-      "complete": true
-    },
     {
       "bar_time": "2026-09-02T15:00:00.000Z",
       "open": 4376.923,
@@ -741,8 +681,18 @@
       "volume": 2711,
       "source_bars": 60,
       "complete": true
+    },
+    {
+      "bar_time": "2026-09-07T23:00:00.000Z",
+      "open": 4407.296,
+      "high": 4428.111,
+      "low": 4406.996,
+      "close": 4423.039,
+      "volume": 7021,
+      "source_bars": 60,
+      "complete": true
     }
   ],
   "github_is_not_price_source": true,
-  "sync_key": "tf60:2026-09-07T17:00:00.000Z"
+  "sync_key": "tf60:2026-09-07T23:00:00.000Z"
 }
