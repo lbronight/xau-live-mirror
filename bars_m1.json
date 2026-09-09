@@ -7,70 +7,10 @@
   "broker_symbol": "XAUUSDm",
   "broker_server": "Exness-MT5Trial5",
   "timeframe": "1m",
-  "generated_at": "2026-09-09T19:00:05.511Z",
-  "source_latest_bar_time": "2026-09-09T18:59:00.000Z",
+  "generated_at": "2026-09-09T19:05:04.421Z",
+  "source_latest_bar_time": "2026-09-09T19:04:00.000Z",
   "count": 240,
   "bars": [
-    {
-      "bar_time": "2026-09-09T15:00:00.000Z",
-      "symbol": "XAUUSDm",
-      "open": 4418.957,
-      "high": 4432.281,
-      "low": 4417.846,
-      "close": 4427.902,
-      "volume": 988,
-      "interval": "1",
-      "received_at": "2026-09-09T15:01:01.583Z",
-      "source": "mt5"
-    },
-    {
-      "bar_time": "2026-09-09T15:01:00.000Z",
-      "symbol": "XAUUSDm",
-      "open": 4427.961,
-      "high": 4430.972,
-      "low": 4405.189,
-      "close": 4407.253,
-      "volume": 3139,
-      "interval": "1",
-      "received_at": "2026-09-09T15:02:01.543Z",
-      "source": "mt5"
-    },
-    {
-      "bar_time": "2026-09-09T15:02:00.000Z",
-      "symbol": "XAUUSDm",
-      "open": 4407.458,
-      "high": 4414.316,
-      "low": 4400.007,
-      "close": 4400.113,
-      "volume": 2171,
-      "interval": "1",
-      "received_at": "2026-09-09T15:03:01.539Z",
-      "source": "mt5"
-    },
-    {
-      "bar_time": "2026-09-09T15:03:00.000Z",
-      "symbol": "XAUUSDm",
-      "open": 4400.252,
-      "high": 4403.733,
-      "low": 4397.722,
-      "close": 4401.604,
-      "volume": 1845,
-      "interval": "1",
-      "received_at": "2026-09-09T15:04:01.553Z",
-      "source": "mt5"
-    },
-    {
-      "bar_time": "2026-09-09T15:04:00.000Z",
-      "symbol": "XAUUSDm",
-      "open": 4401.662,
-      "high": 4402.512,
-      "low": 4394.591,
-      "close": 4395.143,
-      "volume": 1731,
-      "interval": "1",
-      "received_at": "2026-09-09T15:05:01.637Z",
-      "source": "mt5"
-    },
     {
       "bar_time": "2026-09-09T15:05:00.000Z",
       "symbol": "XAUUSDm",
@@ -2890,8 +2830,68 @@
       "interval": "1",
       "received_at": "2026-09-09T19:00:02.182Z",
       "source": "mt5"
+    },
+    {
+      "bar_time": "2026-09-09T19:00:00.000Z",
+      "symbol": "XAUUSDm",
+      "open": 4403.048,
+      "high": 4404.238,
+      "low": 4402.667,
+      "close": 4403.118,
+      "volume": 260,
+      "interval": "1",
+      "received_at": "2026-09-09T19:01:02.140Z",
+      "source": "mt5"
+    },
+    {
+      "bar_time": "2026-09-09T19:01:00.000Z",
+      "symbol": "XAUUSDm",
+      "open": 4403.171,
+      "high": 4403.171,
+      "low": 4399.106,
+      "close": 4399.45,
+      "volume": 270,
+      "interval": "1",
+      "received_at": "2026-09-09T19:02:02.158Z",
+      "source": "mt5"
+    },
+    {
+      "bar_time": "2026-09-09T19:02:00.000Z",
+      "symbol": "XAUUSDm",
+      "open": 4399.365,
+      "high": 4400.147,
+      "low": 4396.805,
+      "close": 4397.258,
+      "volume": 251,
+      "interval": "1",
+      "received_at": "2026-09-09T19:03:02.162Z",
+      "source": "mt5"
+    },
+    {
+      "bar_time": "2026-09-09T19:03:00.000Z",
+      "symbol": "XAUUSDm",
+      "open": 4397.204,
+      "high": 4399.014,
+      "low": 4396.916,
+      "close": 4398.5,
+      "volume": 276,
+      "interval": "1",
+      "received_at": "2026-09-09T19:04:02.143Z",
+      "source": "mt5"
+    },
+    {
+      "bar_time": "2026-09-09T19:04:00.000Z",
+      "symbol": "XAUUSDm",
+      "open": 4398.553,
+      "high": 4399.038,
+      "low": 4397.232,
+      "close": 4398.469,
+      "volume": 201,
+      "interval": "1",
+      "received_at": "2026-09-09T19:05:02.162Z",
+      "source": "mt5"
     }
   ],
   "github_is_not_price_source": true,
-  "sync_key": "m1:2026-09-09T18:59:00.000Z"
+  "sync_key": "m1:2026-09-09T19:04:00.000Z"
 }
