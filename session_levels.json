@@ -12,11 +12,11 @@
   "trading_date": "2026-09-16",
   "session_phase": "overnight_active",
   "session_levels_status": "realtime",
-  "generated_at": "2026-09-16T16:50:09.178Z",
-  "reference_closed_m1_time": "2026-09-16T16:49:00.000Z",
-  "source_latest_m1_time": "2026-09-16T16:49:00.000Z",
-  "source_latest_m5_time": "2026-09-16T16:45:00.000Z",
-  "source_count": 1129,
+  "generated_at": "2026-09-16T16:55:13.589Z",
+  "reference_closed_m1_time": "2026-09-16T16:54:00.000Z",
+  "source_latest_m1_time": "2026-09-16T16:54:00.000Z",
+  "source_latest_m5_time": "2026-09-16T16:50:00.000Z",
+  "source_count": 1134,
   "utc_range": {
     "from": "2026-09-15T22:00:00.000Z",
     "to": "2026-09-16T22:00:00.000Z"
@@ -49,24 +49,24 @@
     "last_bar_time": "2026-09-16T15:59:00.000Z"
   },
   "overnight": {
-    "count": 50,
+    "count": 55,
     "open": 4352.759,
     "high": 4353.015,
-    "low": 4344.322,
-    "close": 4346.101,
+    "low": 4343.575,
+    "close": 4345.641,
     "first_bar_time": "2026-09-16T16:00:00.000Z",
-    "last_bar_time": "2026-09-16T16:49:00.000Z"
+    "last_bar_time": "2026-09-16T16:54:00.000Z"
   },
   "trading_day": {
-    "count": 1129,
+    "count": 1134,
     "open": 4296.061,
     "high": 4361.897,
     "low": 4275.388,
-    "close": 4346.101,
+    "close": 4345.641,
     "first_bar_time": "2026-09-15T22:00:00.000Z",
-    "last_bar_time": "2026-09-16T16:49:00.000Z"
+    "last_bar_time": "2026-09-16T16:54:00.000Z"
   },
   "empty_reason": null,
   "github_is_not_price_source": true,
-  "sync_key": "sessions:2026-09-16:2026-09-16T16:45:00.000Z"
+  "sync_key": "sessions:2026-09-16:2026-09-16T16:50:00.000Z"
 }
