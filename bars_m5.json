@@ -7,21 +7,11 @@
   "broker_symbol": "XAUUSDm",
   "broker_server": "Exness-MT5Trial5",
   "timeframe": "5m",
-  "generated_at": "2026-09-23T06:30:08.327Z",
-  "source_latest_bar_time": "2026-09-23T06:25:00.000Z",
+  "generated_at": "2026-09-23T06:35:07.629Z",
+  "source_latest_bar_time": "2026-09-23T06:30:00.000Z",
   "source_m1_count": 587,
   "count": 100,
   "bars": [
-    {
-      "bar_time": "2026-09-22T22:10:00.000Z",
-      "open": 4361.862,
-      "high": 4364.293,
-      "low": 4361.178,
-      "close": 4364.154,
-      "volume": 396,
-      "source_bars": 5,
-      "complete": true
-    },
     {
       "bar_time": "2026-09-22T22:15:00.000Z",
       "open": 4364.077,
@@ -1011,8 +1001,18 @@
       "volume": 716,
       "source_bars": 5,
       "complete": true
+    },
+    {
+      "bar_time": "2026-09-23T06:30:00.000Z",
+      "open": 4328.809,
+      "high": 4332.073,
+      "low": 4328.32,
+      "close": 4331.674,
+      "volume": 715,
+      "source_bars": 5,
+      "complete": true
     }
   ],
   "github_is_not_price_source": true,
-  "sync_key": "tf5:2026-09-23T06:25:00.000Z"
+  "sync_key": "tf5:2026-09-23T06:30:00.000Z"
 }
